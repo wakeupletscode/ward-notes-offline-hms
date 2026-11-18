@@ -1,0 +1,5 @@
+package com.medcare.hms;
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+@SpringBootApplication
+public class HmsApplication { public static void main(String[] a){ SpringApplication.run(HmsApplication.class, a); } }
